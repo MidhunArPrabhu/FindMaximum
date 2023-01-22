@@ -44,6 +44,10 @@ def max_marks(marks):
 
 ### To find the maximum marks without using builtin functions.
 ```
+Program to mark the maximum of marks using the list method sort
+Developed by: MIDHUN AZHAHU RAJA P
+RegisterNumber: 22008311
+
 def max_marks(list1):
     max = list1[0]
     for i in list1:
