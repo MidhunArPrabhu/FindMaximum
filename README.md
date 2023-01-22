@@ -58,12 +58,8 @@ def max_marks(list1):
 
 ## OUTPUT :
 
-def max_marks(list1):
-    max = list1[0]
-    for i in list1:
-        if i > max:
-            max = i
-    return max
+![max_marks2](https://user-images.githubusercontent.com/118054670/213929657-7505615c-9d08-403d-8e8f-6a337b62f4da.jpg)
+
 
 ## RESULT :
 
