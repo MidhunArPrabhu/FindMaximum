@@ -17,7 +17,7 @@ To write a program to find the maximum of a list of numbers.
 
 
 ### To find the maximum of marks using the list method sort.
-``` 
+```python
 Program to mark the maximum of marks using the list method sort
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
@@ -30,7 +30,7 @@ def max_marks(marks):
 ```
 
 ### To find the maximum marks using the list method max().
-```
+```python
 Program to mark the maximum of marks using the list method sort
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
@@ -43,7 +43,7 @@ def max_marks(marks):
 ```
 
 ### To find the maximum marks without using builtin functions.
-```
+```python
 Program to mark the maximum of marks using the list method sort
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
